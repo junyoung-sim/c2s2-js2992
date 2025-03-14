@@ -1,9 +1,0 @@
-{"vcs1":{"timestamp_begin":1741903045.877815456, "rt":0.61, "ut":0.13, "st":0.32}}
-{"vcselab":{"timestamp_begin":1741903046.718923731, "rt":0.49, "ut":0.17, "st":0.22}}
-{"link":{"timestamp_begin":1741903047.389657651, "rt":0.49, "ut":0.10, "st":0.29}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1741903044.443610036}
-{"VCS_COMP_START_TIME": 1741903044.443610036}
-{"VCS_COMP_END_TIME": 1741903048.323812679}
-{"VCS_USER_OPTIONS": "-top SyncFIFO -debug_access+r+w-memcbk -debug_region+cell +vpi -P pli.tab +define+COCOTB_SIM=1 -sverilog -timescale=1ns/1ps +vcs+dumpvars+waves.vcd -full64 -debug -load /classes/c2s2/easybuild-rhel/software/C2S2PythonPackages/2024.10-foss-2023b/lib/python3.11/site-packages/cocotb/libs/libcocotbvpi_vcs.so +incdir+/home/js2992/c2s2/c2s2_ip/src -cm line+tgl /home/js2992/c2s2/c2s2_ip/src/systolic/SyncFIFO.v /home/js2992/c2s2/c2s2_ip/src/systolic/SystolicDpath.v /home/js2992/c2s2/c2s2_ip/src/systolic/SystolicPE.v"}
-{"vcs1": {"peak_mem": 337060}}
-{"vcselab": {"peak_mem": 252728}}
